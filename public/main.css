@@ -1,0 +1,7 @@
+#news li{
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  margin: 5px;
+  background-size: cover;
+}
